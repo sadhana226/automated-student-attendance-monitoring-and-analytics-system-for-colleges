@@ -1,4 +1,4 @@
-# automated student attendance monitoring and analytics system
+# automated student attendance monitoring and analytics system usinng php
 
 ## Technologies Used
 - HTML
